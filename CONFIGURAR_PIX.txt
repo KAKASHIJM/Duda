@@ -1,0 +1,11 @@
+CHAVE PIX CONFIGURADA: 71984625604 (telefone).
+
+PIX MANUAL — DUDA TRANÇAS
+
+1. A chave Pix já está configurada no index.html.
+2. Insira sua chave Pix entre as aspas (telefone, e-mail, CPF/CNPJ ou aleatória).
+3. Confira os valores dos serviços no array services do index.html.
+4. Cliente faz Pix no banco e envia comprovante pelo WhatsApp.
+5. No admin.html, confira no extrato bancário o crédito integral, marque Recebido e depois Confirmado.
+
+ATENÇÃO: Não há confirmação automática com chave Pix comum. Não confie em comprovantes. Os dados ficam no localStorage de cada navegador; não há sincronização, login seguro ou bloqueio de agenda global. Para uso real multiusuário, é necessário backend, banco de dados e autenticação. Não publique admin.html como painel privado seguro.

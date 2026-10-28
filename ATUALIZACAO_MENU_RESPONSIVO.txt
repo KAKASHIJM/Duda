@@ -1,0 +1,1 @@
+Duda Tranças: botão Painel no menu superior, WhatsApp mais alto e ajustes de celular. Sem Supabase. O painel local não sincroniza aparelhos e não oferece autenticação segura.

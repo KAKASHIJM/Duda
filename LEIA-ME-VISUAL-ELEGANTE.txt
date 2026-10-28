@@ -1,0 +1,4 @@
+Duda Tranças - visual elegante 2026.
+Mantidos: Pix 71984625604, agendamentos, painel local, sem Supabase.
+Publique a pasta extraída inteira no Netlify.
+ATENÇÃO: dados salvos somente no navegador; sem sincronização entre dispositivos ou autenticação segura. Pix deve ser verificado manualmente.

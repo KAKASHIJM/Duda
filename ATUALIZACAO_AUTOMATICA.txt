@@ -1,0 +1,7 @@
+PAINEL COM ATUALIZACAO AUTOMATICA LOCAL
+
+O admin.html verifica mudancas a cada 3 segundos e ao voltar para a aba. Mudancas feitas em outras abas do mesmo navegador sao capturadas automaticamente.
+
+LIMITACAO: os dados ainda ficam em localStorage. NAO ha sincronizacao entre dispositivos nem atualizacao de dados do servidor. Para agendamentos reais em varios aparelhos, implementar banco de dados e autenticacao no backend (por exemplo Supabase), com politicas de acesso.
+
+PIX MANUAL: o recebimento deve ser verificado no extrato antes da confirmacao. Esta versao nao verifica automaticamente pagamentos Pix.

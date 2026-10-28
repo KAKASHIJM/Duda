@@ -1,0 +1,1 @@
+Duda Tranças: flores removidas; borboletas decorativas animadas nos quatro cantos. Mantidos os agendamentos, painel e Pix. Extraia o ZIP e publique todos os arquivos no Netlify.

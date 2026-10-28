@@ -1,0 +1,6 @@
+DUDA TRANÇAS — SITE + PAINEL ADMINISTRATIVO LOCAL
+
+Abra index.html para acessar o site. Abra admin.html para acessar o painel.
+O painel permite visualizar, filtrar, alterar status, excluir e exportar pedidos, além de bloquear horários.
+ATENÇÃO: os dados são salvos somente no localStorage do mesmo navegador/dispositivo. O painel NÃO tem autenticação segura, banco de dados ou sincronização entre dispositivos. O envio por WhatsApp não confirma automaticamente a reserva. Para produção, integrar backend, banco de dados e login seguro.
+Para Netlify: publique a pasta extraída (com index.html, admin.html e assets).
